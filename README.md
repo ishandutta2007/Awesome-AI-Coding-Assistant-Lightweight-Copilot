@@ -10,7 +10,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
 <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-AI-Coding-Assistant-Lightweight-Copilot/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Coding-Assistant-Lightweight-Copilot?style=social" alt="GitHub Stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-AI-Coding-Assistant-Lightweight-Copilot/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Coding-Assistant-Lightweight-Copilot?style=social" alt="GitHub_Stars"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-AI-Coding-Assistant-Lightweight-Copilot/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Coding-Assistant-Lightweight-Copilot?style=social" alt="GitHub Forks"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-AI-Coding-Assistant-Lightweight-Copilot/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT"/></a>
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -74,99 +74,99 @@ Below is a breakdown of top commercial AI coding copilot platforms, sorted by es
 
 ## 🐙 Open-Source GitHub Projects
 
-Curated list of open-source coding copilots, minimalist terminal assistants, and lightweight editor extensions, **sorted in descending order by GitHub Stars**:
+Curated list of open-source coding copilots, minimalist terminal assistants, and lightweight editor extensions, **sorted in descending order by GitHub_Stars**:
 
-- **[OpenCode (`anomalyco/opencode`)](https://github.com/anomalyco/opencode)** [![GitHub Stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social&color=white)](https://github.com/anomalyco/opencode/stargazers)  
+- **[OpenCode (`anomalyco/opencode`)](https://github.com/anomalyco/opencode)** [![GitHub_Stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social&color=white)](https://github.com/anomalyco/opencode/stargazers)  
   ⚡ Modern, blazingly fast open-source (`MIT`) terminal-native AI coding assistant featuring a crisp TUI, LSP diagnostics awareness, and multi-provider local/cloud LLM support.
 
-- **[Ollama (`ollama/ollama`)](https://github.com/ollama/ollama)** [![GitHub Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers)  
+- **[Ollama (`ollama/ollama`)](https://github.com/ollama/ollama)** [![GitHub_Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers)  
   🦙 The de facto open-source (`MIT`) runtime to get up and running with local LLMs (Qwen2.5-Coder, DeepSeek-Coder, Llama) with built-in OpenAI-compatible API endpoints for editor plugins.
 
-- **[llama.cpp (`ggml-org/llama.cpp`)](https://github.com/ggml-org/llama.cpp)** [![GitHub Stars](https://img.shields.io/github/stars/ggml-org/llama.cpp?style=social&color=white)](https://github.com/ggml-org/llama.cpp/stargazers)  
+- **[llama.cpp (`ggml-org/llama.cpp`)](https://github.com/ggml-org/llama.cpp)** [![GitHub_Stars](https://img.shields.io/github/stars/ggml-org/llama.cpp?style=social&color=white)](https://github.com/ggml-org/llama.cpp/stargazers)  
   ⚙️ Highly optimized, dependency-free C/C++ inference engine delivering ultra-fast local CPU/GPU token generation and sub-50ms FIM completions.
 
-- **[Zed Editor (`zed-industries/zed`)](https://github.com/zed-industries/zed)** [![GitHub Stars](https://img.shields.io/github/stars/zed-industries/zed?style=social&color=white)](https://github.com/zed-industries/zed/stargazers)  
+- **[Zed Editor (`zed-industries/zed`)](https://github.com/zed-industries/zed)** [![GitHub_Stars](https://img.shields.io/github/stars/zed-industries/zed?style=social&color=white)](https://github.com/zed-industries/zed/stargazers)  
   ⚡ Ultra-fast, GPU-accelerated open-source (`GPL-3.0` / `Apache-2.0`) Rust code editor featuring native Edit Prediction (`Zeta` open model) and lightweight inline AI assistance.
 
-- **[Cline (`cline/cline`)](https://github.com/cline/cline)** [![GitHub Stars](https://img.shields.io/github/stars/cline/cline?style=social&color=white)](https://github.com/cline/cline/stargazers)  
+- **[Cline (`cline/cline`)](https://github.com/cline/cline)** [![GitHub_Stars](https://img.shields.io/github/stars/cline/cline?style=social&color=white)](https://github.com/cline/cline/stargazers)  
   🤖 Autonomous open-source (`Apache-2.0`) coding agent for VS Code with direct file system access, terminal execution, MCP tool support, and human-in-the-loop checkpoints.
 
-- **[Aider (`Aider-AI/aider`)](https://github.com/Aider-AI/aider)** [![GitHub Stars](https://img.shields.io/github/stars/Aider-AI/aider?style=social&color=white)](https://github.com/Aider-AI/aider/stargazers)  
+- **[Aider (`Aider-AI/aider`)](https://github.com/Aider-AI/aider)** [![GitHub_Stars](https://img.shields.io/github/stars/Aider-AI/aider?style=social&color=white)](https://github.com/Aider-AI/aider/stargazers)  
   💻 Pair-programming terminal AI tool (`Apache-2.0`) that edits code directly in local Git repositories, runs tests, and automatically creates clear Git commit messages.
 
-- **[CopilotKit (`CopilotKit/CopilotKit`)](https://github.com/CopilotKit/CopilotKit)** [![GitHub Stars](https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=social&color=white)](https://github.com/CopilotKit/CopilotKit/stargazers)  
+- **[CopilotKit (`CopilotKit/CopilotKit`)](https://github.com/CopilotKit/CopilotKit)** [![GitHub_Stars](https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=social&color=white)](https://github.com/CopilotKit/CopilotKit/stargazers)  
   🧩 Open-source (`MIT`) framework for building custom, highly integrated in-app AI copilots, inline text completion components, and autonomous AI agents.
 
-- **[Continue (`continuedev/continue`)](https://github.com/continuedev/continue)** [![GitHub Stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers)  
+- **[Continue (`continuedev/continue`)](https://github.com/continuedev/continue)** [![GitHub_Stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers)  
   🛠️ Leading open-source (`Apache-2.0`) modular AI code assistant extension for VS Code and JetBrains supporting custom Tab autocomplete, inline edits, and any local or cloud model.
 
-- **[Tabby (`TabbyML/tabby`)](https://github.com/TabbyML/tabby)** [![GitHub Stars](https://img.shields.io/github/stars/TabbyML/tabby?style=social&color=white)](https://github.com/TabbyML/tabby/stargazers)  
+- **[Tabby (`TabbyML/tabby`)](https://github.com/TabbyML/tabby)** [![GitHub_Stars](https://img.shields.io/github/stars/TabbyML/tabby?style=social&color=white)](https://github.com/TabbyML/tabby/stargazers)  
   🐱 Self-hosted open-source (`Apache-2.0`) AI coding assistant written in Rust delivering sub-second Fill-in-the-Middle (FIM) autocomplete and lightweight extensions for VS Code, Vim/Neovim, and IntelliJ.
 
-- **[crush (`charmbracelet/crush`)](https://github.com/charmbracelet/crush)** [![GitHub Stars](https://img.shields.io/github/stars/charmbracelet/crush?style=social&color=white)](https://github.com/charmbracelet/crush/stargazers)  
+- **[crush (`charmbracelet/crush`)](https://github.com/charmbracelet/crush)** [![GitHub_Stars](https://img.shields.io/github/stars/charmbracelet/crush?style=social&color=white)](https://github.com/charmbracelet/crush/stargazers)  
   🧁 Glamorous, lightweight open-source (`FSL-1.1-MIT`) terminal coding copilot built by Charm combining a fast Lip Gloss TUI with LSP integration, MCP tools, and model switching.
 
-- **[Void (`voideditor/void`)](https://github.com/voideditor/void)** [![GitHub Stars](https://img.shields.io/github/stars/voideditor/void?style=social&color=white)](https://github.com/voideditor/void/stargazers)  
+- **[Void (`voideditor/void`)](https://github.com/voideditor/void)** [![GitHub_Stars](https://img.shields.io/github/stars/voideditor/void?style=social&color=white)](https://github.com/voideditor/void/stargazers)  
   🌌 Open-source (`Apache-2.0`) lightweight alternative to Cursor built on VS Code providing inline diff autocomplete, local indexing, and direct BYOK/Ollama connections.
 
-- **[Roo Code / Roo-Cline (`RooVetGit/Roo-Cline`)](https://github.com/RooVetGit/Roo-Cline)** [![GitHub Stars](https://img.shields.io/github/stars/RooVetGit/Roo-Cline?style=social&color=white)](https://github.com/RooVetGit/Roo-Cline/stargazers)  
+- **[Roo Code / Roo-Cline (`RooVetGit/Roo-Cline`)](https://github.com/RooVetGit/Roo-Cline)** [![GitHub_Stars](https://img.shields.io/github/stars/RooVetGit/Roo-Cline?style=social&color=white)](https://github.com/RooVetGit/Roo-Cline/stargazers)  
   🦘 Advanced open-source (`Apache-2.0`) autonomous coding agent fork of Cline featuring custom system prompts, multi-mode personas (Architect, Code, Ask), and checkpoint diffs.
 
-- **[Avante.nvim (`yetone/avante.nvim`)](https://github.com/yetone/avante.nvim)** [![GitHub Stars](https://img.shields.io/github/stars/yetone/avante.nvim?style=social&color=white)](https://github.com/yetone/avante.nvim/stargazers)  
+- **[Avante.nvim (`yetone/avante.nvim`)](https://github.com/yetone/avante.nvim)** [![GitHub_Stars](https://img.shields.io/github/stars/yetone/avante.nvim?style=social&color=white)](https://github.com/yetone/avante.nvim/stargazers)  
   ✨ Open-source (`Apache-2.0`) Neovim plugin delivering Cursor-style inline diff previews and fast agentic code edits inside a native terminal editor footprint.
 
-- **[Qwen2.5-Coder (`QwenLM/Qwen2.5-Coder`)](https://github.com/QwenLM/Qwen2.5-Coder)** [![GitHub Stars](https://img.shields.io/github/stars/QwenLM/Qwen2.5-Coder?style=social&color=white)](https://github.com/QwenLM/Qwen2.5-Coder/stargazers)  
+- **[Qwen2.5-Coder (`QwenLM/Qwen2.5-Coder`)](https://github.com/QwenLM/Qwen2.5-Coder)** [![GitHub_Stars](https://img.shields.io/github/stars/QwenLM/Qwen2.5-Coder?style=social&color=white)](https://github.com/QwenLM/Qwen2.5-Coder/stargazers)  
   🏆 Premier open-source coding model series (0.5B to 32B) optimized for high-speed Fill-in-the-Middle (FIM) code completion and competitive with top proprietary models.
 
-- **[FauxPilot (`fauxpilot/fauxpilot`)](https://github.com/fauxpilot/fauxpilot)** [![GitHub Stars](https://img.shields.io/github/stars/fauxpilot/fauxpilot?style=social&color=white)](https://github.com/fauxpilot/fauxpilot/stargazers)  
+- **[FauxPilot (`fauxpilot/fauxpilot`)](https://github.com/fauxpilot/fauxpilot)** [![GitHub_Stars](https://img.shields.io/github/stars/fauxpilot/fauxpilot?style=social&color=white)](https://github.com/fauxpilot/fauxpilot/stargazers)  
   ✈️ Lightweight open-source (`Apache-2.0`) GitHub Copilot API-compatible local server backend powered by Triton/FasterTransformer.
 
-- **[libracoder/kiri (`libracoder/kiri`)](https://github.com/libracoder/kiri)** [![GitHub Stars](https://img.shields.io/github/stars/libracoder/kiri?style=social&color=white)](https://github.com/libracoder/kiri/stargazers)  
+- **[libracoder/kiri (`libracoder/kiri`)](https://github.com/libracoder/kiri)** [![GitHub_Stars](https://img.shields.io/github/stars/libracoder/kiri?style=social&color=white)](https://github.com/libracoder/kiri/stargazers)  
   🗡️ Lightweight open-source AI coding assistant and minimalist copilot engineered for fast, low-overhead code generation, editing, and streamlined developer workflows.
 
-- **[AIChat (`sigoden/aichat`)](https://github.com/sigoden/aichat)** [![GitHub Stars](https://img.shields.io/github/stars/sigoden/aichat?style=social&color=white)](https://github.com/sigoden/aichat/stargazers)  
+- **[AIChat (`sigoden/aichat`)](https://github.com/sigoden/aichat)** [![GitHub_Stars](https://img.shields.io/github/stars/sigoden/aichat?style=social&color=white)](https://github.com/sigoden/aichat/stargazers)  
   💬 All-in-one lightweight CLI companion written in Rust supporting shell assistant workflows, code refactoring pipes, and local/remote LLM routing.
 
-- **[bloop (`BloopAI/bloop`)](https://github.com/BloopAI/bloop)** [![GitHub Stars](https://img.shields.io/github/stars/BloopAI/bloop?style=social&color=white)](https://github.com/BloopAI/bloop/stargazers)  
+- **[bloop (`BloopAI/bloop`)](https://github.com/BloopAI/bloop)** [![GitHub_Stars](https://img.shields.io/github/stars/BloopAI/bloop?style=social&color=white)](https://github.com/BloopAI/bloop/stargazers)  
   🔎 Fast open-source (`Rust`) code search and navigation engine leveraging local LLMs and semantic embeddings for codebase understanding.
 
-- **[CodeCompanion.nvim (`olimorris/codecompanion.nvim`)](https://github.com/olimorris/codecompanion.nvim)** [![GitHub Stars](https://img.shields.io/github/stars/olimorris/codecompanion.nvim?style=social&color=white)](https://github.com/olimorris/codecompanion.nvim/stargazers)  
+- **[CodeCompanion.nvim (`olimorris/codecompanion.nvim`)](https://github.com/olimorris/codecompanion.nvim)** [![GitHub_Stars](https://img.shields.io/github/stars/olimorris/codecompanion.nvim?style=social&color=white)](https://github.com/olimorris/codecompanion.nvim/stargazers)  
   🤝 Clean, extensible open-source (`MIT`) AI coding plugin for Neovim providing inline code transformations, slash commands, and lightweight adapters for local and cloud models.
 
-- **[codeium.vim (`Exafunction/codeium.vim`)](https://github.com/Exafunction/codeium.vim)** [![GitHub Stars](https://img.shields.io/github/stars/Exafunction/codeium.vim?style=social&color=white)](https://github.com/Exafunction/codeium.vim/stargazers)  
+- **[codeium.vim (`Exafunction/codeium.vim`)](https://github.com/Exafunction/codeium.vim)** [![GitHub_Stars](https://img.shields.io/github/stars/Exafunction/codeium.vim?style=social&color=white)](https://github.com/Exafunction/codeium.vim/stargazers)  
   🚀 Free and minimalist open-source (`MIT`) Vim/Neovim plugin delivering fast inline AI code completion directly in the editor buffer.
 
-- **[Mods (`charmbracelet/mods`)](https://github.com/charmbracelet/mods)** [![GitHub Stars](https://img.shields.io/github/stars/charmbracelet/mods?style=social&color=white)](https://github.com/charmbracelet/mods/stargazers)  
+- **[Mods (`charmbracelet/mods`)](https://github.com/charmbracelet/mods)** [![GitHub_Stars](https://img.shields.io/github/stars/charmbracelet/mods?style=social&color=white)](https://github.com/charmbracelet/mods/stargazers)  
   🔮 AI for the command line built by Charm designed for piping stdin, formatting terminal code output, and automating shell workflows.
 
-- **[Twinny (`twinnydotdev/twinny`)](https://github.com/twinnydotdev/twinny)** [![GitHub Stars](https://img.shields.io/github/stars/twinnydotdev/twinny?style=social&color=white)](https://github.com/twinnydotdev/twinny/stargazers)  
+- **[Twinny (`twinnydotdev/twinny`)](https://github.com/twinnydotdev/twinny)** [![GitHub_Stars](https://img.shields.io/github/stars/twinnydotdev/twinny?style=social&color=white)](https://github.com/twinnydotdev/twinny/stargazers)  
   ♊ Zero-telemetry, lightweight open-source (`MIT`) VS Code extension built specifically for local Ollama, llama.cpp, and LM Studio inference with fast FIM autocomplete and chat.
 
-- **[Refact.ai (`smallcloudai/refact`)](https://github.com/smallcloudai/refact)** [![GitHub Stars](https://img.shields.io/github/stars/smallcloudai/refact?style=social&color=white)](https://github.com/smallcloudai/refact/stargazers)  
+- **[Refact.ai (`smallcloudai/refact`)](https://github.com/smallcloudai/refact)** [![GitHub_Stars](https://img.shields.io/github/stars/smallcloudai/refact?style=social&color=white)](https://github.com/smallcloudai/refact/stargazers)  
   🔧 Self-hostable open-source (`BSD-3-Clause`) AI coding engine offering AST-aware FIM code completion, local fine-tuning, and lightweight IDE plugins.
 
-- **[llama.vim (`ggml-org/llama.vim`)](https://github.com/ggml-org/llama.vim)** [![GitHub Stars](https://img.shields.io/github/stars/ggml-org/llama.vim?style=social&color=white)](https://github.com/ggml-org/llama.vim/stargazers)  
+- **[llama.vim (`ggml-org/llama.vim`)](https://github.com/ggml-org/llama.vim)** [![GitHub_Stars](https://img.shields.io/github/stars/ggml-org/llama.vim?style=social&color=white)](https://github.com/ggml-org/llama.vim/stargazers)  
   🦙 Official ultra-lightweight open-source (`MIT`) Vim and Neovim plugin from `llama.cpp` providing fast, local GPU-accelerated inline code completion with automatic context caching.
 
-- **[StarCoder2 (`bigcode-project/starcoder2`)](https://github.com/bigcode-project/starcoder2)** [![GitHub Stars](https://img.shields.io/github/stars/bigcode-project/starcoder2?style=social&color=white)](https://github.com/bigcode-project/starcoder2/stargazers)  
+- **[StarCoder2 (`bigcode-project/starcoder2`)](https://github.com/bigcode-project/starcoder2)** [![GitHub_Stars](https://img.shields.io/github/stars/bigcode-project/starcoder2?style=social&color=white)](https://github.com/bigcode-project/starcoder2/stargazers)  
   ⭐ Open-access, transparently trained code LLMs (3B, 7B, 15B) built by BigCode with high-efficiency Fill-in-the-Middle capabilities.
 
-- **[gen.nvim (`David-Kunz/gen.nvim`)](https://github.com/David-Kunz/gen.nvim)** [![GitHub Stars](https://img.shields.io/github/stars/David-Kunz/gen.nvim?style=social&color=white)](https://github.com/David-Kunz/gen.nvim/stargazers)  
+- **[gen.nvim (`David-Kunz/gen.nvim`)](https://github.com/David-Kunz/gen.nvim)** [![GitHub_Stars](https://img.shields.io/github/stars/David-Kunz/gen.nvim?style=social&color=white)](https://github.com/David-Kunz/gen.nvim/stargazers)  
   ⚡ Minimalist Neovim plugin (`MIT`) to generate text and code using local Ollama models with zero external dependencies.
 
-- **[minuet-ai.nvim (`milanglacier/minuet-ai.nvim`)](https://github.com/milanglacier/minuet-ai.nvim)** [![GitHub Stars](https://img.shields.io/github/stars/milanglacier/minuet-ai.nvim?style=social&color=white)](https://github.com/milanglacier/minuet-ai.nvim/stargazers)  
+- **[minuet-ai.nvim (`milanglacier/minuet-ai.nvim`)](https://github.com/milanglacier/minuet-ai.nvim)** [![GitHub_Stars](https://img.shields.io/github/stars/milanglacier/minuet-ai.nvim?style=social&color=white)](https://github.com/milanglacier/minuet-ai.nvim/stargazers)  
   🎵 Minimalist, snappy open-source (`MIT`) Neovim AI completion plugin supporting `nvim-cmp`, `blink.cmp`, and virtual-text ghost suggestions across Ollama, llama.cpp, OpenAI, and Claude.
 
-- **[gp.nvim (`Robitx/gp.nvim`)](https://github.com/Robitx/gp.nvim)** [![GitHub Stars](https://img.shields.io/github/stars/Robitx/gp.nvim?style=social&color=white)](https://github.com/Robitx/gp.nvim/stargazers)  
+- **[gp.nvim (`Robitx/gp.nvim`)](https://github.com/Robitx/gp.nvim)** [![GitHub_Stars](https://img.shields.io/github/stars/Robitx/gp.nvim?style=social&color=white)](https://github.com/Robitx/gp.nvim/stargazers)  
   🎯 Zero-bloat Neovim AI plugin (`MIT`) for session chats, inline code generation, and multi-provider model switching without heavy frameworks.
 
-- **[vim-ai (`madox2/vim-ai`)](https://github.com/madox2/vim-ai)** [![GitHub Stars](https://img.shields.io/github/stars/madox2/vim-ai?style=social&color=white)](https://github.com/madox2/vim-ai/stargazers)  
+- **[vim-ai (`madox2/vim-ai`)](https://github.com/madox2/vim-ai)** [![GitHub_Stars](https://img.shields.io/github/stars/madox2/vim-ai?style=social&color=white)](https://github.com/madox2/vim-ai/stargazers)  
   📝 Simple, lightweight AI companion for Vim and Neovim providing clean interactive chat and inline code editing.
 
-- **[llm.nvim (`huggingface/llm.nvim`)](https://github.com/huggingface/llm.nvim)** [![GitHub Stars](https://img.shields.io/github/stars/huggingface/llm.nvim?style=social&color=white)](https://github.com/huggingface/llm.nvim/stargazers)  
+- **[llm.nvim (`huggingface/llm.nvim`)](https://github.com/huggingface/llm.nvim)** [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/llm.nvim?style=social&color=white)](https://github.com/huggingface/llm.nvim/stargazers)  
   🤗 Lightweight open-source (`Apache-2.0`) Neovim plugin from Hugging Face offering ghost-text inline code completion backed by local `ollama`/`llama.cpp` or Inference Endpoints.
 
-- **[ellama (`s-kostyaev/ellama`)](https://github.com/s-kostyaev/ellama)** [![GitHub Stars](https://img.shields.io/github/stars/s-kostyaev/ellama?style=social&color=white)](https://github.com/s-kostyaev/ellama/stargazers)  
+- **[ellama (`s-kostyaev/ellama`)](https://github.com/s-kostyaev/ellama)** [![GitHub_Stars](https://img.shields.io/github/stars/s-kostyaev/ellama?style=social&color=white)](https://github.com/s-kostyaev/ellama/stargazers)  
   🐂 Lightweight GNU Emacs package (`GPL-3.0`) for interacting with local LLMs (Ollama) for code completion, translation, and chat.
 
 ---
@@ -192,7 +192,7 @@ For developers looking to assemble a 100% offline, privacy-first, low-RAM coding
 Contributions are warmly welcomed! Help keep this curated list accurate and comprehensive:
 
 1. 🍴 Fork the repository.
-2. 📝 Add or update an entry in `README.md` maintaining proper markdown formatting, accurate links, and star badges.
+2. 📝 Add or update an entry in `README.md` maintaining proper markdown formatting, accurate links, and Stars_Badges.
 3. 💡 Ensure descriptions remain concise, objective, and factual.
 4. 🚀 Open a Pull Request detailing the changes and reason for inclusion.
 

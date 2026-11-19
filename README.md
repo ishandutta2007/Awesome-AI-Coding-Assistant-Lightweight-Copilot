@@ -30,75 +30,33 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The AI coding assistant and developer tool sector is expanding rapidly, with an estimated market size scaling from **$4–5 billion in 2024** to over **$9–11 billion by 2026** (projected to exceed $30–40 billion by the early 2030s at a ~25–30% CAGR). Rather than consolidating into a winner-take-all monopoly, the sector remains **moderately to highly fragmented** across full-suite hyperscalers (Microsoft Copilot, Amazon Q), cutting-edge AI-native IDEs (Cursor, Windsurf), enterprise-governed platforms (Tabnine, Sourcegraph), and a vibrant open-source / local-model inference ecosystem.
 
 
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[GitHub Copilot](https://github.com)**  
-
-  Industry-standard AI pair programmer offering low-latency inline autocomplete, next-edit suggestions, multi-file edits, and broad support across VS Code, JetBrains, Neovim, and Xcode.
-
-
-
-- **[Cursor](https://cursor.com)**  
-
-  AI-native code editor forked from VS Code featuring predictive Tab autocomplete, instant diff previews, codebase indexing, and multi-file agentic editing.
-
-
-
-- **[Windsurf (formerly Codeium)](https://windsurf.com)**  
-
-  Agentic AI IDE and lightweight extension suite featuring fast Supercomplete inline suggestions, Cascade multi-step flows, and multi-editor plugin support.
-
-
-
-- **[Supermaven](https://supermaven.com)**  
-
-  Ultra-low-latency AI code completion platform built around a 1-million-token context window (Babble) for near-instantaneous inline suggestions with minimal editor lag.
-
-
-
-- **[Tabnine](https://tabnine.com)**  
-
-  Enterprise-grade AI code completion and chat assistant offering lightweight local/cloud hybrid models, zero-data-retention privacy, and air-gapped VPC deployments.
-
-
-
-- **[Amazon Q Developer](https://amazon.com)**  
-
-  Cloud AI coding companion providing inline code suggestions, IDE chat, security scanning, and AWS infrastructure assistance across VS Code, JetBrains, and CLI.
-
-
-
-- **[JetBrains AI Assistant](https://jetbrains.com)**  
-
-  Natively integrated AI code completion, inline refactoring, and commit-message assistant built directly into IntelliJ IDEA, PyCharm, WebStorm, GoLand, and Rider.
-
-
-
-- **[Sourcegraph Cody](https://sourcegraph.com)**  
-
-  Context-aware AI coding assistant leveraging Sourcegraph's code graph for fast autocomplete, inline edits, and multi-repository search inside VS Code and JetBrains.
-
-
-
-- **[Continue.dev Hub (Cloud)](https://continue.dev)**  
-
-  Cloud governance and configuration layer for the open-source Continue extension enabling shared team assistants, model routing, and MCP tool setups.
-
-
-
-
+| Platform | Company Valuation / Revenue Size | Starting Paid Pricing | Free Tier / Free Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Amazon Q Developer](https://amazon.com)** | **$2.3T+ Market Cap** (Amazon / AWS; AWS ~$105B+ ARR) | **$19/user/month** (Pro Tier) | **Free tier permanently available**: 50 agentic chat/CLI requests/month, 50 security scans/month, 1,000 lines of Java code transformation/month. | Cloud AI coding companion providing inline suggestions, IDE chat, security vulnerability scanning, and AWS cloud management. |
+| **[GitHub Copilot](https://github.com)** | **$3.1T+ Market Cap** (Parent: Microsoft; GitHub Copilot ~$300M+ ARR) | **$10/month** (Copilot Pro) | **Free tier permanently available**: 2,000 code completions/month and 50 chat/agent messages per month across supported IDEs. | Industry-standard AI pair programmer offering low-latency inline autocomplete, next-edit suggestions, and broad IDE support. |
+| **[JetBrains AI Assistant](https://jetbrains.com)** | **$5B–$10B Valuation** (~$700M+ ARR; bootstrapped & profitable) | **$10/month** (AI Pro individual; or $100/year) | **30-day free trial** of AI Pro with promotional cloud AI credits; transitions to permanent **AI Free tier** (basic local completions + 3 cloud credits per 30 days). | Natively integrated AI code completion, inline refactoring, and commit-message assistant built directly into IntelliJ, PyCharm, and JetBrains IDEs. |
+| **[Cursor](https://cursor.com)** | **$29.3B Valuation** (Anysphere; Series D; ~$1B+ ARR) | **$8/month** (Plus tier; Pro at $20/month) | **Free Hobby tier permanently available**: Limited Tab autocomplete (~2,000 completions/month) and limited slow queue requests/month (no expiration, no credit card required). | AI-native code editor forked from VS Code featuring predictive Tab autocomplete, instant diff previews, codebase indexing, and multi-file agentic editing. |
+| **[Windsurf (formerly Codeium)](https://windsurf.com)** | **$10.2B+ Valuation** (Acquired by Cognition AI; pre-deal ~$82M ARR) | **$20/month** (Pro Tier) | **Free tier permanently available**: Unlimited Tab completions & inline edits, plus a light rolling daily/weekly usage quota for autonomous agents. | Agentic AI IDE and extension suite featuring fast Supercomplete inline suggestions, Cascade multi-step flows, and multi-editor plugin support. |
+| **[Sourcegraph Cody](https://sourcegraph.com)** | **$2.6B Valuation** (Series D; ~$35M–$50M ARR) | **$16,000/year minimum contract** (~$50–$59/user/month effective) | **No individual free tier or trial** (Cody Free & Pro retired July 2025; available exclusively via enterprise contracts with tailored proof-of-concept evaluations). | Context-aware AI coding assistant leveraging Sourcegraph's code graph for deep codebase retrieval, inline edits, and multi-repo search. |
+| **[Tabnine](https://tabnine.com)** | **~$100M Valuation** (Acquired by Tricentis; ~$10M–$25M ARR) | **$39/user/month** (Code Assistant, billed annually) | **14-day free trial** of the full Code Assistant plan; standalone free tier retired in favor of team and enterprise evaluations. | Enterprise-grade AI code completion and chat assistant offering local/cloud hybrid models, zero-data-retention privacy, and air-gapped deployments. |
+| **[Supermaven](https://supermaven.com)** | **$12M Raised** (Acquired by Cursor/Anysphere; tech integrated into Cursor) | **$10/month** (Pro Tier) | **Free tier permanently available**: Fast inline completions with standard context window and 7-day data retention (excludes 1M-token Babble context & chat credits). | Ultra-low-latency AI code completion platform built around a 1-million-token context window (Babble) for near-instantaneous inline suggestions. |
+| **[Continue.dev Hub (Cloud)](https://continue.dev)** | **$5.6M Raised** (Seed; team acquired by Cursor/Anysphere) | **$10/developer/month** (Team Tier) | **Free Solo tier permanently available**: $0/developer/month for full open-source extension using BYOK (Bring Your Own Key) or unlimited local models (Ollama). | Cloud governance and configuration layer for the open-source Continue extension enabling shared team assistants, model routing, and MCP setups. |
 
 ## Open-Source GitHub Projects
 
